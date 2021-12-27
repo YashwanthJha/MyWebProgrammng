@@ -1,0 +1,84 @@
+form{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.search{
+    margin-left: 70%;
+
+}
+.serach1{
+    margin-left: 90%;
+}
+.search2{
+    margin-left: 90%;
+}
+div{
+    text-align: center;
+    margin-top: 10%;
+}
+.gap{
+    text-align: justify;
+    margin-left: 5%;
+}
+.gap1{
+    text-align: center;
+    
+    margin-left: 12%;
+    width: 50%;
+    height: 20%;
+    border-radius: 25px;
+    
+}
+.gap2{
+    text-align: center;
+    margin-left: 4.5%;
+    width: 50%;
+    border-radius: 25px;
+}
+.gap3{
+    text-align: center;
+    margin-left: 9%;
+    width: 50%;
+    border-radius: 25px;
+}
+.gap4{
+    text-align: center;
+    margin-left: 8%;
+    width: 50%;
+    border-radius: 25px;
+}
+
+input{
+    width:30%;
+    border-radius:25px;
+    font-size: medium;
+}
+
+input:hover{
+    border-color: blue;
+    box-shadow: 2px 2px 1px 1px #888888;
+    
+}
+
+
+
+button{
+    background-color: rgb(0, 153, 255);
+    color: white;
+    border-radius: 25px;
+    width: 15%;
+    margin-top: 2%;
+}
+
+button:hover{
+    background-color:white;
+    color: blue;
+}
+.adv{
+    margin-left: 30%;
+    width: 30%;
+    font-size: large
+}
+
